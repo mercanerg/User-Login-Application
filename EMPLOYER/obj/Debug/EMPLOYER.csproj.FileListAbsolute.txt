@@ -1,0 +1,14 @@
+C:\Users\AGA\source\repos\EMPLOYER\obj\Debug\EMPLOYER.csproj.AssemblyReference.cache
+C:\Users\AGA\source\repos\EMPLOYER\obj\Debug\EMPLOYER.csproj.SuggestedBindingRedirects.cache
+C:\Users\AGA\source\repos\EMPLOYER\obj\Debug\EMPLOYER.Properties.Resources.resources
+C:\Users\AGA\source\repos\EMPLOYER\obj\Debug\EMPLOYER.csproj.GenerateResource.cache
+C:\Users\AGA\source\repos\EMPLOYER\obj\Debug\EMPLOYER.csproj.CoreCompileInputs.cache
+C:\Users\AGA\source\repos\EMPLOYER\bin\Debug\EMPLOYER.exe.config
+C:\Users\AGA\source\repos\EMPLOYER\bin\Debug\EMPLOYER.exe
+C:\Users\AGA\source\repos\EMPLOYER\bin\Debug\EMPLOYER.pdb
+C:\Users\AGA\source\repos\EMPLOYER\obj\Debug\EMPLOYER.exe
+C:\Users\AGA\source\repos\EMPLOYER\obj\Debug\EMPLOYER.pdb
+C:\Users\AGA\source\repos\EMPLOYER\obj\Debug\EMPLOYER.frmLogin.resources
+C:\Users\AGA\source\repos\EMPLOYER\obj\Debug\EMPLOYER.Form2.resources
+C:\Users\AGA\source\repos\EMPLOYER\obj\Debug\EMPLOYER.Form3.resources
+C:\Users\AGA\source\repos\EMPLOYER\obj\Debug\EMPLOYER.Form4.resources
